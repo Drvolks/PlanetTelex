@@ -1,0 +1,289 @@
+ * RADIOHEAD - How to Disappear Completely and Never Be Found
+ * Unreleased
+ * Guitar tab by Lee Johnson <Leej666@yahoo.com>
+                 Nick Stone <nstone@jps.net>
+                 <Jasper820@aol.com>
+                 jerre*san <jerre@radiks.net>
+                 Jason Murray <Psychospth@aol.com>
+
+
+From : Lee Johnson <Leej666@yahoo.com>
+
+Tuning: EADGBe. CAPO ON THE SECOND FRET
+Notes: CAPO ON THE SECOND FRET. i tabbed this from a
+really bad quality boot-leg, so don't have a fit if
+it's not entirly correct. All that i have done is the
+chord's, i'll do the ending (an absolute mass
+of guitar and keyboard effects) later.
+in case you're interested, "how to disappear
+completley and never be found" is a book by
+Doug Richmond about, well, how to disappear completely
+and never be found. whether or not the title was
+inspired by this book i do not know. oh, and another
+thing: don't argue about the lyrics: they haven't been
+"finalised" by thom yet. and i haven't given the chords
+their correct names because i can't be bothered to work them
+out yet- i've named them as if there were no capo present.
+
+chords: CAPO ON THE SECOND FRET
+
+ C           03201x     (mute the first string with your
+ Cadd9       03203x      little finger)
+ Em          02200x
+ Em/C        02201x
+ G           32000x
+ Gsus4/E     32001x
+
+structure:(i've only shown the first verse, because both verses are identical)
+
+C  Cadd9  C  Cadd9  C  Em  Em/C  Em  Em/C    x3
+
+ C       Cadd9    C    Cadd9
+ That man
+ C          Em   Em/C  Em  Em/C
+ That's not me
+ C       Cadd9    C    Cadd9
+ I go____
+ C          Em   Em/C  Em  Em/C
+ Where I___ please
+ C                   Cadd9  C   Cadd9
+ I walk Through walls_______
+ C              Em      Em/C    Em    Em/C
+ Float down the Liffey
+ G           Gsus4/E    G    Gsus4/E
+ I'm not here_______
+ Em       Em/C   Em   Em/C
+ This isn't happening_____
+ G      Gsus4/E  G  Gsus4/E
+ I'm not here___________
+ Em      Em/C   Em   Em/C
+ I'm not here___________
+
+I know what I've seen
+You throw me out then send me back again
+You throw me out and and threw me back again
+In a little while I'll be gone
+The moment's already passed
+Yeah, it's gone
+Yeah, it's gone
+Yeah, it's gone
+Fireworks and blown speakers
+and blown speakers
+Strobe lights and hurricanes
+I'm not here
+This isn't happening
+I'm not here
+(No, now, how?) repeated 10x
+
+
+================================================================================
+
+
+From : Nick Stone <nstone@jps.net>
+
+[w/ capo on 2nd fret... see notes below]
+
+intro:
+
+D   D+9   D   D+9
+F#m  F#m*   m  Em*
+
+That [D]man [D+9]  [D]  [D+9]
+
+That's not [F#m]me [F#m*]  [F#m]  [F#m*]
+
+<etc, etc...>
+
+I'm not [B]here [B]  [B]  [B]
+
+ This isn't [F#m]happening [F#m*]  [F#m]  [F#m*]
+
+ I'm not [B]here [B]  [B]  [B]
+
+ I'm not [F#m]here [F#m*]  [F#m]  [F#m*]
+
+
+ *notes:
+
+ since there is a capo at the 2nd fret the chords look like this:
+
+ D - 254232 [like a C]
+
+ D+9 - 254252
+
+ F#m - 244222 [like an Em]
+
+ F#m* - 244225
+
+ B - X25552 [like an A]
+
+ the D to D+9 is a bit tricky to explain in words. it looks something like this:
+
+ e--2---2-2---2---2-2---2--2-------------------------
+ b--3---3-3---5---5-5---3--2-------------------------
+ g--2---2-2---2---2-2---2--2-------------------------
+ D--4---4-4---4---4-4---4--4-------------------------
+ A--5---5-5---5---5-5---5--5-------------------------
+ E--2---2-2---2---2-2---2--2-------------------------
+
+basically you are playing a C chord at the 2nd fret and fooling about on the
+B-string. i added in the F#m* chord for those of you playing it alone who
+still want the feeling of having jonny accompanying you on that high,
+sliding bit. just add your pinky to the F#m chord at the 5th fret, strum it
+once, and then return to a regular F#m to 'fake' the slide. sorry i've done
+such a poor job tabbing this one out, but it's really one of those songs
+where you just need to toy around with the chords while listening to the
+recording to really get the rhythm and so forth.
+
+
+================================================================================
+
+
+From : <Jasper820@aol.com>
+  
+This song may change since its new, but here's how they played it at
+the Toronto show.
+  
+capo on second
+  
+chords
+        C  Cadd9 
+                     Em    Em/G   Em/C
+E ----0----0-----0-----3-------0
+B ----1----3-----0-----0-------1
+G ----0----0-----0-----0-------0
+D ----2----2-----2-----2-------2
+A ----3----3-----2-----2-------2
+E ----0----0-----0-----0-------0      
+  
+slide guitar thing (fallowing the C and em combo)
+  
+B----10b--s---7b
+  
+Its a pretty simple song, but theirs alot of small stuff still to tab.
+
+
+
+================================================================================
+
+
+From : jerre*san <jerre@radiks.net>
+
+chords:
+bm   - x24432
+bsus4- x24452
+f#m  - 244222
+f#m6 - 244232
+a    - x02220
+asus4- x02230
+
+intro:
+bm bsus4 (just switch between the two for a little)
+
+
+verse:
+bm bsus4   f#m f#m6
+that man, that's not me
+
+bm bsus4   f#m f#m6
+i go,     where i please
+
+bm bsus4
+i walk through walls
+
+f#m f#m6
+i float down the liffey
+
+
+chorus:
+a asus4
+i'm not here
+
+bm bsus4
+this isn't happening
+
+a asus4
+i'm not here
+
+bm bsus4
+i'm not here
+
+
+verse:
+bm bsus4         f#m f#m6
+i know what i've seen
+
+bm bsus4         f#m f#m6
+you throw me out then send me back again
+
+bm bsus4                  f#m f#m6
+in a little while i'll be gone
+
+bm bsus4
+the moment's already passed
+
+f#m f#m6
+yeah, it's gone
+
+f#m f#m6
+yeah, it's gone
+
+f#m f#m6
+yeah, it's gone
+
+bm bsus4                 f#m f#m6
+strobe lights and blown speakers
+
+bm bsus4      f#m f#m6
+fireworks and hurricanes
+
+
+chorus:
+a asus4
+i'm not here
+
+bm bsus4
+this isn't happening
+
+a asus4
+i'm not here
+
+bm bsus4
+i'm not here
+
+
+================================================================================
+
+
+From : Jason Murray <Psychospth@aol.com>
+
+this is played with a capo on the 2nd fret. i'll just put the chords down. 
+there is only three used in the whole song.
+
+verse:
+
+e------0----------0--------------0-------0---------------
+--------1----------3--------------0-------1---------------
+--------0----------0--------------0-------0---------------
+--------2----------2--------------2-------2---------------
+--------3----------3--------------2-------2---------------
+e----------------------------------0-------0---------------
+
+chorus:
+
+e-----3-------3-------------0-------0---------------------------
+-------0-------1-------------0-------1---------------------------
+-------0-------0-------------0-------0---------------------------
+-------0-------0-------------2-------2---------------------------
+-------2-------2-------------2-------2---------------------------
+e-----3-------3-------------0-------0---------------------------
+
+that's pretty much the whole song. the end, when thom starts singing really 
+high, is the same as the chorus.
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

@@ -1,0 +1,132 @@
+ * RADIOHEAD - Exit Music (for a film)
+ * OK Computer LP
+ * Guitar tab by Emilie <hugoch@netcom.ca>, Steven McGovern <srmcg@hotmail.com>
+                 Adrian Morse <amorse@waterw.com>
+
+Capo on 2nd fret.
+
+All chords have been renamed according to the capo for 
+easy playing along use.  For example...Am --> Bm; Bsus2 
+--> Asus2, etc. etc.  The chords aren't especially hard
+to play, but many of them are inverted and have different
+roots, etc. so that's kind of a trip, but if you can't
+play the chords as tabbed out, just kind of strum along
+as best you can and it sounds alright anyway.
+
+Chords:
+          EADGBe
+Am:       002210
+Asus2:    002200
+Asus4:    002230
+E:        022100
+D7sus2/C: x3x210
+D/F#:     2x023x
+D/F:      1x023x
+A/E:      002220
+Gm:       3x033x or x57555
+Bm:       x24432
+C/F#:     2x021x
+B:        x2444x
+F:        1332xx
+Bb:       x1333x
+Em:       022000
+
+note: a few chords can be played diff. ways.  some sound
+better than others so play around and whatever you can
+get to sound better.
+
+---
+
+Intro:
+ [---------- x2 --------------------] then play first half x2
+  Am                       Asus2 Asus4
+e-----------------------------------
+B---1--1--1--1-----1--1--1--0-0-3-3-
+G---2--2--2--2-----2--2--2--2-2-2-2-
+D---2--2--2--2-----2--2--2--2-2-2-2-
+A-0-------------0-------------------
+E-0-------------0-------------------
+
+Am              E
+Wake, from your sleep,
+    D7sus2/C       D/F#
+The drying of your tears,
+Am          E          Asus4  A
+Today, we escape, we escape.
+
+Am           E
+Pack and get dressed,
+D7sus2/C      D/F# D/F
+Before your father hears us,
+Am         E           Asus4  A
+Before all hell breaks loose.
+
+Gm            Bm (or C/F#)
+Breathe, keep breathing,
+Asus2 Am  Asus2  Asus4  Am  E
+Don't lose,      your nerve
+Gm            Bm (or C/F#)
+Breathe, keep breathing,
+Asus2      Am   Asus2 Asus4 Am  E  Em
+I can't do this       alone.
+
+Sing us a song.
+A song to keep us warm,
+There's such a chill, such a chill...
+
+(also w/ -Riff A- see below)
+Am          B
+And you can laugh 
+E           F
+A spineless laugh
+F            Bb        E
+We hope your rules and wisdom choke you.
+
+Am             E
+And now we are one 
+D7sus2/C       D/F# D/F
+In everlasting peace
+
+Am               E              Asus4    Asus2
+We hope that you choke that you choke.
+Am               E              Asus4    Asus2
+We hope that you choke that you choke.
+Am               E              Asus4    Asus2
+We hope that you choke that you choke.
+
+---
+
+Below riff not relative to capo.
+
+Riff A:
+(The following is all trem. picking with chorus.)
+e------------------------------------------------------------------------
+B--15---17--18---14---12----14---15----8---4----7---8-3-5----7-13--11--8-
+G------------------------------------------------------------------------
+D------------------------------------------------------------------------
+A------------------------------------------------------------------------
+E------------------------------------------------------------------------
+And you can laugh    A spineless laugh   We hope your  rules  and wis-dom   
+
+e------------------------------------------------------------------------
+B-9----11------12---14-12-11-----10-----------9---8------7---------------
+G------------------------------------------------------------------------
+D------------------------------------------------------------------------
+A------------------------------------------------------------------------
+E------------------------------------------------------------------------
+ Choke you and now we are one in ever-lasting pea-ece We hope that you
+
+e------------------------------------------------------------------------
+B-2-------------5------4-----3--------------2----------------------------
+G----------------------------------------------------------4-------------
+A------------------------------------------------------------------------
+D------------------------------------------------------------------------
+E------------------------------------------------------------------------
+ choke  that you choke.    We hope that you choke that you choke.
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

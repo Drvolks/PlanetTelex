@@ -1,0 +1,171 @@
+ * RADIOHEAD - Bulletproof... I Wish I Was
+ * The Bends LP
+ * Guitar tabs by Nicholas Deysher <ndeysher@abacus.bates.edu>, 
+   Adrian Morse <amorse@waterw.com>, Henrik Hall <d96hh@efd.lth.se>
+   Steve <jroyle@netcentral.co.uk>
+   Steven McGovern <smcgovern@comms.kst.dit.ie>
+
+From : Nicholas Deysher <ndeysher@abacus.bates.edu>
+
+Verse: Am7 Cmaj7 Gmaj7/B Dsus2
+
+Limb by limb and tooth by tooth
+tearing up inside of me
+everyday every hour wish that I was bullet proof
+
+Wax me, mould me,
+heat the pins and stab them in
+you have turned me into this
+just wish that it was bullet proof
+
+Chorus: G Dsus4 C
+
+bullet proof...
+
+so pay me money and take a shot
+lead-fill the hole in me
+i could burst a million bubbles
+all surrogate and
+bullet proof
+
+bullet proof...
+
+---
+
+Chorus Figure:
+
+/ - slide
+p - pull-off
+
+2 times:
+
+|------7---------7----------|---------------------------|
+|7/8-------7/8--------------|------7---------7----------|
+|----0---0-----0---0-7p0-0-0|7p0-0---0-7p0-0---0-7p0-0-0|
+|---------------------------|---------------------------|
+|---------------------------|---------------------------|
+|---------------------------|---------------------------|
+
+|---------------------------| |---------------------------| |---|
+|------5---------5----------| |------5---------5----------| |-3-|
+|4p0-0---0-4p0-0---0-4p0-0-0| |4p0-0---0-4p0-0---0-4p0-0-0| |-0-|
+|---------------------------| |---------------------------| |-0-|
+|---------------------------| |---------------------------| |-1-|
+|---------------------------| |---------------------------| |---|
+
+
+================================================================================
+
+
+From: Steve <jroyle@netcentral.co.uk>
+
+|Am7|Cmaj7|Bmaddb6(or Gmaj7/B)|Dsus2  Csus2 G/B|
+|Am7|Cmaj7|Bmaddb6(or Gmaj7/B)|Dsus2|Dsus2|
+
+Am7                Cmaj7
+limb by limb and tooth by tooth
+Gmaj7/B           Dsus2  Csus2 G/B
+stirring up inside of me
+Am7      Cmaj7      Gmaj7/B    Dsus2
+everyday every hour wish that I 
+                |Am7|Cmaj7|Bmaddb6(or Gmaj7/B)|Dsus2  Csus2 G/B|
+was bullet proof
+
+Am7     Cmaj7
+wax me, mould me,
+Gmaj7/B             Dsus2
+heat the pins and stab them in
+Am7                  Cmaj7
+you have turned me into this
+Gmaj7/B          Dsus2
+just wish that it 
+                G---
+was bullet proof
+
+Chords for this chorus part are as follows:
+|G|Gmaj7/B|Cadd9|Cadd9|G|Gmaj7/B|Cadd9|Bb6|
+                                         so 
+Am7                     Cmaj7
+pay me money and take a shot
+Gmaj7/B           Dsus2
+lead-fill the hole in me
+Am7                Cmaj7
+i could burst a million bubbles, all
+Gmaj7/B  Dsus2
+surrogate 
+                G----
+and bullet proof
+
+The dreamy Ed type guitar over the top is by (long and boring explanation,
+but I really cannot be arsed tabbing this one out)...
+picking and hammer/pulling the notes designated thus...on each chord
+  |G   |Gmaj7/B|Cadd9|
+e--0-------0------0--------------
+B--12------7------5--------------
+G--11/0----6/0----4/0------------
+D--12------7------5--------------
+A--------------------------------
+E--------------------------------
+
+The chords used were:
+  Am7 Cmaj7 Gmaj7/B Dsus2 Csus2 G/B G Cadd9 Bb6
+e-0----0------2-------0-----X----X--3---3----X---------
+B-1----0------3-------3-----3----3--3---3----3---------
+G-0----0------0-------2-----0----0--0---0----0---------
+D-2----2------0-------0-----0----0--0---2----3---------
+A-0----3------2-------X-----3----2--2---3----1---------
+E-X----X------X-------X-----X----X--3---X----X---------
+
+
+================================================================================
+
+
+From : Steven McGovern <smcgovern@comms.kst.dit.ie>
+
+        EADGe
+Am7     x02010
+Cmaj7   x32000
+Bm?     x20032
+Dsus2   xx0230
+Csus2   x3003x
+G/B     x2003x
+G       320033
+Cadd9   x3203x
+Bb6     x1303x
+
+Verse
+
+Am7 | Cmaj7 | Bm? | Dsus2 *(Csus2  G/B) | Am7 | Cmaj7 | Bm? | Dsus2 | 
+Dsus2  | 
+
+*= only now and then but not all the time
+
+Chorus
+
+G  | Bm? | Cadd9 | Cadd9 | G | Bm? | Cadd9 | Bb6
+
+
+Chorus Riff
+e---------0----------------0--------------------------0------------------------
+B--------12----12---------12----12----12------------7-7---7-------7---7--------
+G-11p0------------11p0----------------11--11p0--7p0-0-------7p0-0---------0---0
+D------12---12---------12----12----12---------------7---7-------7---7---7---5--
+A------------------------------------------------------------------------------
+E------------------------------------------------------------------------------
+                                               
+                                              *Bb6
+e------------0---------------0-----------------
+B--------5-------------5-----------------5-----3
+G--4p0-----0----4p0-------0--------0-----------0
+D------5------------5-----------5-----5--------3
+A----------------------------------------------1
+E----------------------------------------------
+
+*= strummed slowly
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

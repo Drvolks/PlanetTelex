@@ -1,0 +1,145 @@
+ * RADIOHEAD - Climbing up the Walls
+ * OK Computer LP
+ * Guitar tab by Steven McGovern <srmcg@hotmail.com>
+
+Intro:
+e------------------------------------------------------------------------
+B------------------------------------------------------------------------
+G------------------------------------------------------------------------
+D------------------------------------------------------------------------
+A--------2---------------------------------------------------------------
+E--7--3--0--3------------------------------------------------------------
+
+Verse:
+   Bm G  Em G
+e--------0---------------------------------------------------------------
+B--3-----0---------------------------------------------------------------
+G--4-----0---------------------------------------------------------------
+D--4-----2---------------------------------------------------------------
+A--2-----2---------------------------------------------------------------
+E-----3--0--3------------------------------------------------------------
+This is the chords Thom plays but mostly only the top notes are really 
+hit.
+
+Chorus:
+ [--- x2-----------]
+   Em                 Em
+e--0------------------0--------------------------------------------------
+B--0------------------0--------------------------------------------------
+G--0------------------0--------------------------------------------------
+D--2--------------2---2--------------------------------------------------
+A--2---------2-4------2--------------------------------------------------
+E--0--2--3------------0--------------------------------------------------
+
+Riff1 (in second verse)
+ [---------------------- x2 ------------------]
+e------------------------------------------------------------------------
+B------------------------------------------------------------------------
+G------------------------------------------------------------------------
+D--16-16-14-14-----------14-14-------------------------------------------
+A--------------17-17-----------17-17-15-14---2---------------------------
+E------------------------------------------------------------------------
+
+Riff2
+ [-------X2-----------------------]
+e------------------------------------------------------------------------
+B---------------------18-----19--\---------------------------------------
+G-15-----16--\-----16----------------------------------------------------
+D------------------------------------------------------------------------
+A------------------------------------------------------------------------
+E------------------------------------------------------------------------
+ This bit is actually played on keyboards by Jon but this is it for 
+guitar. The verse Bm G Em G chords above are strummed during this by 
+Thom and Ed.
+
+Riff3 X2
+e------------------------------------------------------------------------
+B------------------------------------------------------------------------
+G-14h16-16-16-16-16-14h16-16-16----14h16-16-16-14h16-16-16-16-16-16-16---
+D-------------------------------14---------------------------------------
+A----------------------------------------------------------------------14
+E------------------------------------------------------------------------
+
+                 Em
+e----------------0----------------------------------------------------
+B----------------0----------------------------------------------------
+G----------------0----------------------------------------------------
+D----14----------2----------------------------------------------------
+A-16-------------2----------------------------------------------------
+E----------------0----------------------------------------------------
+This riff Ed plays isnt too audible but its there.
+
+<note: "having seen the band play the song live and listening to the track 
+I am sure that instead of the above ed actually plays the G and B strings at
+the nut i.e. to the left of the first fret. this produces that high pitched
+sound." <-- comment from Doug Stuart <stuart@tinet.ie>
+
+-Steven <srmcg@hotmail.com>
+
+---
+
+VERSION 2:
+"Climbing Up The Walls"
+>From OK Computer
+by Radiohead
+Tabbed By Chuck Frame
+Corrections by Seb (93sperry@worth.org.uk)
+
+There is little guitar that you can hear properly to speak of in the 
+recording, but if you use these chords you can make a reasonable sounding 
+version of Climbing Up The Walls. (Those of you who know how to play 
+Bullet With Butterfly Wings by the Smashing Pumpkins will notice that the 
+tab is similar. (I am not sure about some of the exact names of the 
+chords but bear with me.):
+
+Thom plays aan acoustic guitar (live at least) Ed plays electric. Jonny play no guitar on this track. At Glastonbury, he had what looked like the remote control of  a remote controlled car, to make weird noises. During the verses, Ed plays harmonics (I don't know where) - and towards the end jonny plays some piano-like instrument to make the howling noises 
+
+Intro & Chord Index:
+
+	    Bm    Bm   Bm  G   Em Em Em  G
+	E-----2----2---2---------0----0---0-----------
+	B-----3----3---3---------0----0---0-----------
+	G-----4----4---4---------0----0---0-----------
+	D-----4----4---4---------2----2---2-----------
+	A-----2----2---2---------2----2---2-------0---
+	E-----2----2---2----3----0----0---0----3------
+
+Verse:
+
+	         Bm               (G)       Em
+	I am the key to the lock in your house
+	(G)               Bm               G   Em
+	That keeps your toys in the baseme__nt       
+	G          Bm           G   Em
+	And If you get too far in__side
+	G           Bm            G   Em
+	You'll only see my reflecti__on
+
+	etc.
+
+Chorus			(play f# on 2nd fret of low e string)
+	Em		(F#)  G
+	Anyway you turn, I'll be there
+	Open up your skull, i'll be there
+	Em
+	climbing up the walls
+	
+
+	etc.
+		the fiddly bit at the start of the second verse is something like
+e-------------------------------------	
+b---3-3-2-2--00-----------------------
+		 
+	for the solo, try some unison bends, like in bones
+
+e-------------------------------------	
+b-------12---------------19-----------
+g---14b16----------21b23--------------
+
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

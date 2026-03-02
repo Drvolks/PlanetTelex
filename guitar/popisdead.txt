@@ -1,0 +1,103 @@
+ * RADIOHEAD - Pop is Dead
+ * Pop is Dead EP
+ * Guitar tab by StefaN
+
+verse/intro
+
+  |--Rhy Fig 1--------------------------------------------
+    A   G#  G   F#    Bm                E
+E-------------------|-------------------------------------
+B---5---4---3---2---|(3)--3---3---3-----------------------
+G---6---5---4---3---|-4---4---4---4-----1---1---1---1-----
+D---7---6---5---4---|-4---4---4---4-----2---2---2---2-----
+A---7---6---5---4---|-2---2---2---2-(0)-2---2---2---2-----
+E---5---4---3---2---|-------------------0---0---0---0-(0)-
+                      >   >   >   >     >   >   >   >
+  ---------------|              play Rhy Fig 1
+   Bm                E          once more, then:
+E-----------------------------|-------------------------------
+B--3---3---3---3-----------9--|-------------------------------
+G--4---4---4---4-----1--/--9--|-------------------------------
+D--4---4---4---4-----2--/--9--|-------------------------------
+A--2---2---2---2-(0)-2--/--7--|-----------------------3-3-2-0-
+E--------------------0--------|-----------------0-2-3---------
+   >   >   >   >                              1 & 2 & 3 & 4 &
+
+Chorus: the main chord progression is as follows (2 beats for each chord):
+
+        A  C  D  E  G  (yes, 10 beats in all). This is played twice (1st
+chorus) and is accompanied by a riff similar to this: 
+
+E-----------------------------------|--------------------------------
+B-----------------------------------|-13-12-13-14--------------------
+G------14-12------------------------|--------------14-13-12----------
+D--------------14-13-12-------------|-----------------------14-13-12-
+A------------------------14--13--12-|--------------------------------
+E-----------------------------------|--------------------------------
+   1 & 2 ... 
+                    another guitar is playing this during the 1st chorus:
+E-----------------|---(w/ vibrato)------------------------------------
+B-----------------|---------------------------------------------------
+G-----------------|-----14----14--------------------------------------
+D-----------------|--14----14-----repeated all through the chorus-----
+A---14---13---12--|---------------------------------------------------
+E-----------------|---------------------------------------------------
+                     1  2  3  4 ... 
+
+then back to verse (same as first)
+
+2nd chorus: plays A C D E G progression 4 times along with similar guitar riff:
+
+E-----------------------------------------------------
+B-13-12-13-14-----------------------------------------
+G--------------14-13-12*------------------------------
+D-------------------------14-13-12*-------------------
+A-----------------------------------14---13---12---etc...(improvise)
+E-----------------------------------------------------
+
+*slight bend and release on these notes (done very quickly)
+  
+ The other guitar plays:
+   (as before)
+   for the 1st half of the chorus,  then for the 2nd half 
+        (ie. 10 beats)
+E-------------------------------------------------------
+B-----(w/ vibrato)----------------------------14----12--
+G-------14----14---------------------------14----14----- 
+D----14----14----etc..----------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+     1  2  3  4 ...                        1  2  3  4 ... 
+
+Then after that, you're on your own.
+
+LYRICS:
+
+
+Oh no, pop is dead, long live pop
+It died an ugly death by back-catalogue
+And now you know it gets you nowhere
+And now you know, you realize
+
+Oh no, pop is dead, it just gave up
+We raised the dead, but they won't stand up.
+And radio has salmonella
+And now you know you're gonna die
+
+So what pop is dead, it's no great loss,
+So many facelifts, his face flew off.
+The emperor has no clothes on,
+And his skin is peeling of
+
+Oh no, pop is dead, long live pop
+One final line of coke to jack him off
+He left this message for us...
+He's dead ! He's dead ! He's dead !
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------
+

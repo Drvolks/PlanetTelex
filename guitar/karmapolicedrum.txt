@@ -1,0 +1,52 @@
+ * RADIOHEAD - Karma Police
+ * OK Computer LP
+ * Drum tab by Walter van Suijlekom <wdvslkom@wins.uva.nl>
+
+
+Code:
+SD = Snare drum
+BD = Bass drum
+HH = Hi-hat
+o  = Open Hi-Hat                                         
+
+Part I:
+                                                       o
+        HH      1n1n 2n2n 3n3n 4n4n | 1n1n 2n2n 3n3n 4n4n
+        BD      1nnn ---- 3n3n ---- | 1nnn nn2n 3nnn ----
+        SD      ---- 2nnn ---- 4nnn | ---- 2nnn ---- 4nnn
+
+Part II:
+                                                       o        (2nd time)
+        HH      1n1n 2n2n 3n3n 4n4n | 1n1n 2n2n 3n3n 4n4n
+        BD      1nnn ---- 3n3n nn4n | 1nnn ---- 3n3n ----
+        SD      ---- 2nnn ---- 4nnn | ---- 2nnn ---- 4nnn
+
+Part III:
+                                                       o        (2nd time)
+        HH      1n1n 2n2n 3n3n 4n4n | 1n1n 2n2n 3n3n 4n4n
+        BD      1nnn ---- 3n3n ---- | 1nnn ---- 3n3n ----
+        SD      ---- 2nnn ---- 4nnn | ---- 2nnn ---- 4nnn
+
+Part IV:
+        HH      1n1n 2n2n 3n3n 4n4n | 1n1n 2n2n 3n3n 4n4n
+        BD      1nnn ---- 3n3n ---- | 1n1n nn2n 3n3n 4n4n
+        SD      ---- 2nnn ---- 4nnn | ---- 2n2n 3333 4444
+
+-----------------------------------------------------------------------
+Song structure:
+        Part I          (2x)            Part III        (1x)
+        Part II         (1x)            Part I          (2x)
+        Part III        (1x)            Part II         (1x)
+        Part I          (2x)            Part III        (1x)
+        Part II         (1x)            Bridge
+        Part III        (2x)            Part IV         (1x)
+        Bridge                          Part I          (till end, but
+                                                           HH open every time)
+----------------------------------------------------------------------- 
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------
