@@ -1,0 +1,31 @@
+ * RADIOHEAD - How Can You Be Sure?
+ * Fake Plastic Trees CD1
+ * Guitar tab by Stefan Maeder
+
+Verse: chord progression:
+
+     E   Bsus4  E    A
+E----0-----0-----0----0-
+B----0-----0-----0----2-
+G----1-----4-----1----2-
+D----2-----4-----2----2-
+A----2-----2-----2----0-
+E----0-----------0------
+
+last time:  E   Bsus4   E   E
+
+Chorus?: (with descending bassline):
+
+E------------------------------------------
+B----2-----2-----2----2------4-------------
+G----2-----2-----2----2------4---4---4---4-
+D----2-----2-----2----2------4---4---4---4-  then back to verse...
+A----0-----x-----x----0------2---0---x---x-
+E----------4-----2----0--------------4---2-
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

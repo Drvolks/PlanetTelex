@@ -1,0 +1,136 @@
+ * RADIOHEAD - Karma Police
+ * OK Computer LP
+ * Guitar tab by OJ Lim
+   Corrections by L Guillemot <lg@dumbo.univ-poitiers.fr>
+                  J-P Stacey <wadh0269@sable.ox.ac.uk>, A. Morse <amorse@waterw.com>
+                  D. Meijer <dm@zip.cm.au>, Matt <scherdin@warwick.net>
+                  Steven McGovern <srmcg@hotmail.com>
+
+Intro:  Am D/F# Em G
+        Am F Em G
+        Am D
+        G G/F#, C, C/B
+        Am, Bm, D
+
+
+Am  D/F#    Em
+Kar_ma     Police,
+  G             Am
+arrest this man,
+   F    Em
+he talks in maths,
+   G                 Am
+he buzzes like a fridge
+     D  G         C   C/B  Am   Bm   D
+he's like a detuned ra_di____o.
+
+Am  D/F# Em
+Kar_ma    Police,
+  G             Am
+arrest this girl,
+    F     Em
+her hitler hairdo,
+   G                    Am
+is making me feel ill,
+    D         G                 C   C/B  Am   Bm   D
+and we have crashed her par_ty____.
+
+C       D           G   F#
+this is what you'll get,
+C       D           G   F#
+this is what you'll get,
+C       D           G
+this is what you'll get,
+         Bm        C    Bm  D
+when you mess with us...
+
+Am  D/F#   Em
+Kar_ma    Police,
+     G       Am
+I've given all I can,
+     F    Em
+it's not   enough,
+     G       Am
+I've given all I can,
+    D             G      C C/B Am   Bm   D
+but we're still on the pay___roll.
+
+C       D           G   F#
+this is what you'll get,
+C       D           G   F#
+this is what you'll get,
+C       D           G
+this is what you'll get,
+         Bm        C    Bm  D
+when you mess with us...
+
+Bm        D          G
+And for a minute there,
+  D      G      D      E7
+I lost myself I lost myself,
+Bm          D        G
+And for a minute there,
+  D      G      D      E7
+I lost myself I lost myself,
+
+Bm        D          G
+And for a minute there,
+  D      G      D      E7
+I lost myself I lost myself,
+Bm          D        G
+Just for a minute there,
+  D      G      D      E7
+I lost myself I lost myself 
+
+
+Chords:
+      EADGBE
+D/F#: 2x0232
+G/F#: 200033
+C/B:  x20010
+E7:   020100
+Bm:   X24432
+
+
+------------------------------------------------------------------------------------------------
+
+From : Steven McGovern <srmcg@hotmail.com>
+
+Intro and Verse:
+   Am   Am/F# Em    G   Am  F   Em    G   Am  D  G  C C/B Am  Bm  D
+e--0----0----0-----3---0-------0-----3---0---2--3------------2---2-------
+B--1----1----0-----0---1---1---0-----0---1---3--3--1--1--1---3---3-------
+G--2----2----0-----0---2---2---0-----0---2---2--0--0--0--2---4---2-------
+D--2----0----2-----0---2---3---2-----0---2---0--0--2--0--2---4---0-------
+A--0---------2-----2---0---3---2-----2---0------2--3--2--0---2-----------
+E-------2----0---2-3-----------0---2-3----------3------------------------
+
+Here are the chords. Im not going to tab out the strumming because its 
+pretty easy to figure out.
+
+Verse:
+[-----x2-----]
+   C   D  G   F# C  D  Bm  C  Bm D
+e------2--3---2-----2--2---2--2---------------------------------------
+B--1---3--3---2--1--3--3---1--3--3---------------------------------------
+G--0---2--4---3--0--2--4---0--4--2---------------------------------------
+D--2---0--5---4--2--0--4---2--4--0---------------------------------------
+A--3------5---4--3-----2---3--2------------------------------------------
+E---------3---2-----------------------------------------------------------
+
+Outro:
+    [repeatx2]
+  Bm D  G        D  E
+e-2--2--3--------2--0----------------------------------------------------
+B-3--3--3---3----3--0----------------------------------------------------
+G-4--2--0---0----2--1----------------------------------------------------
+D-4--0--0---0----0--2----------------------------------------------------
+A-2-------0-2-------2----------------------------------------------------
+E-------3-0---3-----0----------------------------------------------------
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

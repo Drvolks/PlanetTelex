@@ -1,0 +1,282 @@
+ * RADIOHEAD - How I Made My Millions
+ * No Surprises CD1
+ * Guitar tab by Andreas Karlsson <andreask@kurir.net>
+                 Igal <chak@netvision.net.il>
+
+From : Andreas Karlsson <andreask@kurir.net>
+
+(please do note that he variates the bits and I haven't 
+ tabbed it all, but you hopefully get the idea)
+
+There are five chords used:
+
+A   (an A-major picked chord)
+(Played in the verses)
+e----------------------------
+b-----------(2)-------------- (first time only)
+g---------2-----2-----2------
+d------2-----2-----2-----2---
+a---0------------------------
+e----------------------------
+
+(This played before the verse)
+e----------------------------
+b----------------------------
+g---------2-----2-----2--1---
+d------2-----2-----2---------
+a---0------------------------
+e----------------------------
+
+
+C#m (a c#-minor picked chord)
+(Let's call this the verse)
+e----------------------------------------------------
+b---------------------------------------0-----0------
+g---------1-----1-----1-----------1------------------
+d------2-----2-----2-----2-----2-----2-----2-----2---
+a---4-----------------------4------------------------
+e----------------------------------------------------
+
+
+D  (a D-major picked chord)
+(Then this should be the chorus)
+e----------------------------
+b---------3-----3-----3------
+g------2-----2-----2-----2---
+d---0------------------------
+a----------------------------
+e----------------------------
+
+Bm (a B-minor picked chord)
+e----------------------------
+b---------------3-----3------
+g---------4------------------
+d------4-----4-----4-----4---
+a---2------------------------
+e----------------------------
+
+
+A/D
+(This is the bridge)
+e-------------------------------------------------
+b-------------------------------------------------
+g---------2-----2-----2-------2-----------2-------
+d------2-----2-----2-------2-----2--0--2------2---
+a---0-------------------0----------(5)------------
+e-------------------------------------------------
+
+e---------------------------------------------------
+b---------------------------------------------------
+g---------2-----2-----2----------2-----2-----2------
+d------2-----2-----2----2-----2-----2-----2-----2---
+a---0----------------------0------------------------
+e---------------------------------------------------
+
+
+These bits are played around in this order:
+(The numbers indicate how many times you play the bit)
+
+Intro note:
+e-------
+b-------
+g-------
+d-------
+a---0---
+e-------
+
+A (4)
+
+Verse:
+C#m (1)	
+I was stronger
+A (2)
+C#m (1)	
+I was better
+A (2)
+
+Chorus:
+D (2)	     Bm (2)	
+Picked you out
+A (2)
+
+Verse:
+C#m (1)	
+Now don't say a word
+A (2)
+C#m (1)	
+No don't yell out
+A (2)
+
+Chorus:
+D (2)	     Bm (2)	
+Never mind
+
+Bridge:
+A/D (2)	
+
+Verse:
+C#m (1)	
+Led you out
+A (2)
+C#m (1)	
+Led you back
+A (2)
+
+Chorus:
+D (2)	     Bm (2)	
+Stay on		Stay down
+
+Bridge:
+A/D (2)	
+
+Chorus:
+D (2)	     Bm (2)
+Let it fall    Let it fall
+
+Bridge:
+A/D (2)	
+
+Chorus:
+D (2)	     Bm (2)
+Let it fall    Let it fall
+
+Outro:
+A (3) (ends with intro note)
+
+
+Hope it works out well, and I can't understand 
+why they put this as a b-side...
+
+
+
+================================================================================
+
+
+
+From : Gorlach Igal <chak@netvision.net.il>
+
+There is already tabbing for this one, but mine sounds more alike.
+So, here it is:
+
+Part I: the A chord. Like this: X00555.
+
+E-|-----------5-------5------5------|---for the--------------5------5------5----4-----|
+B-|-------5------5-------5------5---|----4th time---------5-----5------5--------------|
+G-|---------------------------------|---(I will --------------------------------------|
+D-|---------------------------------|----mark it *)-----------------------------------|
+A-|--0------------------------------|----it played-----0------------------------------|
+E-|---------------------------------|----like this:-----------------------------------|
+
+
+Part II: the C#m chord. Like this: XXX654 - XXX657
+
+E-|-----------4------4-----4-----------------------4-----7-----7-------|
+B-|--------5-----5------5-----5---------------5-----5------5------5----|
+G-|----6------------------------------------6--------------------------|
+D-|--------------------------------------------------------------------|
+A-|--------------------------------------------------------------------|
+E-|--------------------------------------------------------------------|
+Notice: the C#m chord is longer then the A one.
+
+Part III: the D chord. Like this: XX0705
+
+E-|----------5------5------5--------|
+B-|---------------------------------|
+G-|------7------7------7------7-----|
+D-|--0------------------------------|
+A-|---------------------------------|
+E-|---------------------------------|
+
+Part IV: the Bm chord. Like this: 7XX777
+
+E-|-----------------7------7-------|
+B-|----------7---------------------|
+G-|------7------7------7------7----|
+D-|--------------------------------|
+A-|--------------------------------|
+E-|--7-----------------------------|
+
+
+Part V: the C#m chord, again. Like this: X44454 - X44457.
+On the lyrics it will show up as C#m(2).
+
+
+E-|-----------4------4-----4-----------------------4-----7-----7---------|
+B-|--------5-----5------5-----5---------------5-----5------5------5------|
+G-|----------------------------------------------------------------------|
+D-|----------------------------------------------------------------------|
+A-|---4----------------------------------4-------------------------------|
+E-|----------------------------------------------------------------------|
+
+Intro: A___A___A___A*
+
+C#m                  A   A
+I was stronger______
+
+C#m             A   A
+I was better______
+
+D                 D       Bm    Bm
+Picked you__   oooout______
+
+A__..A*
+
+
+C#m(2)                  A    A
+Now don't say a word ______
+
+C#m(2)          A    A
+No don't yell out ______
+
+D            D   Bm  Bm
+Never miiiiiiiind___
+
+ A  A A  A*
+
+ C#m(2)         A      A
+ Led you out_______
+
+ C#m(2)          A       A
+ Led you back______
+
+ D      D
+ Stay on
+
+ Bm    Bm         A     A
+ Stay down______
+
+ Bm  Bm  A
+
+ D       D
+ Let it fall
+
+ Bm     Bm
+ Let it fall
+
+ A A A A*
+
+ D       D
+ Let it fall
+
+ Bm     Bm
+ Let it fall
+
+
+ A A A
+
+
+
+They are changing the picking after a bit, I didn't write how because I don't have the
+time. If you want them any way just email me. The shapes of the chords are
+written like you should play them. And another something, it sounds better
+playing on piano_ I, like John can't understand way the put it as a b-side.
+
+That's it. If you have any comments/questions/corrections you can email me,
+Igal (chak@netvision.net.il)
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

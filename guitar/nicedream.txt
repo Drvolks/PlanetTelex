@@ -1,0 +1,216 @@
+ * RADIOHEAD - Nice Dream
+ * The Bends LP
+ * Guitar tabs by Kevin Durda <kevind@netcore.ca>, stuart@winchester.force9.co.uk,
+                  axel <thom_yorke@mail.dotcom.fr>, Sergio Lucero, Kasper van Benten
+
+
+From: Kevin Durda <kevind@netcore.ca>
+
+Here are all the chords.  I'm not going to put the strum patterns (that would
+take too long), I'm only going to put the chord changes. 
+
+Cmaj7   	 8-10-10-9-0-0
+Badd11  	 7-9-9-8-0-0
+Bbadd#11/b9	 6-8-8-7-0-0
+Aadd9		 5-7-7-6-0-0
+Aadd#11/9	 X-0-9-8-0-0
+Dadd9/6		 10-12-12-11-0-0
+E7sus4		 0-7-7-7-0-0
+E7		 0-7-6-7-0-0
+Bm11		 7-X-7-7-0-0
+B7/F#		 2-X-1-2-0-0
+Asus2		 X-0-2-2-0-0
+Bsus4		 X-2-4-4-0-0
+Cmaj7(II)	 X-3-5-5-0-0
+Dadd9/6		 X-5-7-7-0-0
+B9		 7-X-7-6-0-0
+Bbmaj7add#11/b9  6-X-7-7-0-0
+
+Intro:
+
+| Cmaj7 | Badd11| Bbadd#11/b9 | Aadd9 |
+| Cmaj7 | Badd11| Bbadd#11/b9 |
+| Aadd9 | Aadd#11/9 | Aadd9 | Aadd#11/9 |
+
+1st Verse:
+
+| Aadd9 | Aadd9 | Dadd9/6 | Dadd9/6 | Dadd9/6 | Dadd9/6 | E7sus4 | E7 |
+| Aadd9 | Aadd9 | Dadd9/6 | Dadd9/6 | Dadd9/6 | Dadd9/6 | E7sus4 | E7 |
+
+1st Chorus:
+
+| Bm11 | Bm11 | E7 | E7 | Aadd9 | Aadd#11/9 | Aadd9 | Aadd#11/9 |
+
+2nd Verse:
+
+| Aadd9 | Aadd9 | Dadd9/6 | Dadd9/6 | Dadd9/6 | Dadd9/6 | E7sus4 | E7 |
+| Aadd9 | Aadd9 | Dadd9/6 | Dadd9/6 | Dadd9/6 | Dadd9/6 | E7sus4 | E7 |
+
+2nd Chorus:
+
+| Bm11 | Bm11 | E7 | E7 |
+| Aadd9 | Aadd9 | B7/F# | B7/F# |
+| Bm11 | Bm11 | E7 | E7 |
+| Aadd9 | Aadd9 | B7/F# | B7/F# |
+| Bm11 | Bm11 | Bbadd#11/b9 | Bbadd#11/b9 |
+
+Bridge:
+
+| Asus2 | Bsus4 | Cmaj7 | Dadd6/9 |
+| Asus2 | Bsus4 | Cmaj7 | Dadd6/9 |
+| Asus2 | Bsus4 | Cmaj7 | Dadd6/9 |
+| Asus2 | Bsus4 | Cmaj7 | Dadd6/9 |
+
+Outro:
+
+| Bm11 | Bm11, B9, Aadd9 | E7sus4 | E7sus4, Aadd9 |
+| Aadd9 | Aadd9 | B7/F# | B7/F# |
+| Bm11 | Bm11, B9, Aadd9 | E7sus4 | E7 |
+| Aadd9 | Aadd9 | B7/F# | B7/F# |
+| Bm11 | Bm11 | Bbmaj7add#11/b9 | Bbmaj7add#11/b9 |
+| Aadd9| 
+
+There are the chords for the whole song.  During the outro, when it goes:
+
+			| Bm11, B9, Aadd9 |
+
+The B9 and Aadd9 are played very quickly.  The same goes for the measure
+with:
+
+			| E7sus4, Aadd9 |
+
+Once you get all the fingerings down it's really an easy song.  Just make
+sure to let the open high E and B strings ring throughout the whole song.
+When I get a bit more time I'll tab out the electric guitar part.
+
+------------------------------------------------------------------------------------------
+
+version ii:
+
+[nice dream]
+tabbed by Sergio Lucero, intro by Kasper van Benten
+
+C-B-Bb-A (x2)
+
+ A                           D
+they love me like i was a brother
+                        E
+they protect me, listen to me
+      A                 D
+they dug me my very own garden
+                           E
+gave me sunshine, made me happy.
+
+ Bm          E          A
+nice dream, nice dream, nice dream.
+
+i call up my friend the good angel
+but she's out with her answerphone
+she says she would love to come help but
+the sea would electrocute us all.
+
+ Bm          E          A           F#m
+nice dream, nice dream, nice dream, nice dream
+
+nice dream
+nice dream
+nice dream [if you think that you're strong enough]
+nice dream [if you think you belong enough]
+nice dream [if you think that you're strong enough]
+nice dream [if you think you belong enough]
+
+[anyone for the bridge section?]
+
+Then back to "nice dream"
+
+---v---------------------------------------------------------------------------------------
+
+version iii:
+
+Near the start the 2nd guitar goes something like this...........
+
+A
+Low E----------------------------------------------------
+----------2----------------2----------1---------------1--
+-------------2---------2-------------------2-------2-----     repeat once.
+----------------2------------------------------0---------
+---------------------------------------------------------
+high e---------------------------------------------------
+
+
+I think the second guitar in the song goes something like this at a
+few stages during the song.
+
+           C?
+Low E------------------------
+----------2-----2------------
+-------------0-----------0---         repeat once
+----------------------2------
+-------------------3---------
+high e-----------------------
+
+C?
+low E-------------------
+--------0---------------
+-----------2----------2-      repeat once
+--------------1----1----
+-----------------3------
+high e------------------
+
+A?                        G6.9/A   A?
+low E---------------------------------------
+--------0-----------------------------------
+--------------------------------------------
+-----------6------------6--7----7--6--------
+---------------5-----5--------5-------5-----
+high e------------5----------------------5--
+
+B?                        Emin/B
+low E---------------------------------------
+--------------------------------------------
+--------------------------------------------
+-----------8------------8--9----9--8--------
+---------------7-----7--------7-------7-----
+high e------------7----------------------7--
+
+The above two stages are repeated near the end of the song, it sounds
+as if its around the 17-22 frets, and since I've only got an acoustic
+with 20 frets I cant be bothered to do it.  But it should be the same
+pattern as I've given.
+
+stuart@winchester.force9.co.uk
+
+------------------------------------------------------------------------------------------
+
+SOLO:
+tabbed by axel [thom_yorke@mail.dotcom.fr]
+
+e|-----------------------------||-----------------------------|
+b|-----------------------------||-----------------------------|
+g|-----5--7^(full)-------------||-----5--7^(full)-------------|
+D|--7--------------------------||--7--------------------8--8--|
+A|-----------------------------||-----------------------8--8--|
+E|-----------------------------||--------------------------8--|
+
+
+e|-----------------------------||-------------------15^--14^--|
+b|-----------------------------||-------------------18^--17^--|
+g|-----5--7^(full)-------------||-------5--7^(full)-----------|
+D|--7--------------------------||----7------------------------|
+A|-----------------------------||-----------------------------|
+E|-----------------------------||-----------------------------|
+
+
+|--12----------------20^--19^--||--17-----------------15--14--|
+|--15----------------23^--22^--||--20-----------------18--17--|
+|--------5--7^(full)-----------||--------5--7^(full)----------|
+|-----7------------------------||-----7-----------------------|
+|------------------------------||-----------------------------|
+|------------------------------||-----------------------------|etc.
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

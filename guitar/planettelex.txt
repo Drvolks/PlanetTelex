@@ -1,0 +1,55 @@
+ * RADIOHEAD - Planet Telex
+ * The Bends LP
+ * Guitar tab by Ian Kynnersley, Ditch
+
+INTRO (x4):
+Delay set to about 210 ms.
+
+xx210x
+xx222x
+xx243x
+xx221x
+
+---
+CHORUS:
+
+CRiff1 (x2):
+x24452
+x24442    You can....
+x24432
+x24442
+
+CRiff2:
+x0225x
+x0224x
+x0222x
+x0224x
+
+then CRiff1 x2 , CRiff2 x2
+
+---
+VERSE (x2):
+
+022100   Everyone is...
+02244x
+02243x
+02244x
+
+---
+The rest is just multiple times through these parts...
+
+Ending:
+  A         D      Am
+|--0-------------2-----0----------|
+|----2--2----------3-----1-0h1h0--|
+|-----2---2--2-------2------------|
+|----------2----0-----------------|
+|-0-------------------------------|
+|---------------------------------|
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

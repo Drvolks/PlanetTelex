@@ -1,0 +1,120 @@
+ * RADIOHEAD - Creep
+ * Pablo Honey LP
+ * Drum tab by Rodycool <rsobarzo@hotmail.com>
+
+Intro: 
+
+ (first roll)
+  CC    x- Don't play it anymore until the starting of the verse 1---------|
+  HH  4 --x-x-x-x-x-x-x-|x-x-x-x-x-x-x-X-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-X-|
+  SD  4 ----o-------o---|----o-------o---|----o-------o---|----o-------o---| 
+  BD    o------oo-o-----|o------oo-o-----|o------oo-o-----|o------oo-o---o-|
+
+ (second roll)
+  HH x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-X-|
+  SD ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o-----|o------oo-o-----|
+
+I call'em "rolls" 'cause i couldn't find a better way to call these two diferent parts of the
+intro (parts maybe? sounds good too)
+
+Verse 1:
+
+  *Repeat the intro once
+  *then repeat the first roll of the intro 
+  *Then play this:
+
+  HH x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-X-|X-X-X-X-X-X-X-X-|X-X-X-X-X-X-X-X-|
+  SD ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o-------oo------|--oo----o-o-----|
+
+Chorus 1: x2
+
+  CC x---------------|----------------|----------------|----------------|
+  RC --x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|
+  SD ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o-----|o------oo-o---o-|
+
+ finish with this 
+
+  RC xxxxxxxxxxxxxxxx|
+  BD o---------------|
+
+Verse 2:
+
+  *just as verse 1*
+
+Chorus 2:
+
+  "but i'm a creep..."
+  CC x---------------|----------------|----------------|----------------|
+  RC --x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|
+  SD ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o-----|o------oo-o---o-|
+
+
+  CC x---------------|----------------|x---------------|----------------|  
+  RC --x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|--x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|
+  SD ----o-------o---|----o-------o---|----o-------o---|-o--o--o--o---o-|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o---o-|o-o-----o---o---|
+
+  "she's running out..."
+  CC x---------------|----------------|x---------------|------------x---|
+  RC --x-x-x-x-x-x-x-|x-x-x-x-x-x-x-X-|--x-x-x-x-x-x-x-|x-x-x-x-x-x---x-|
+  SD ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o-----|o------oo-o---o-|
+
+  
+  CC x---------------|----------------|----------------|----------------|
+  RC --x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|X-X-X-X-X-X-X-X-|----------------|
+  T  ----------------|----------------|----------------|-o-o--o---------|
+  SD ----o-------o---|----o-------o---|--o-o-----o-o---|o---o---dddd----|
+  F  ----------------|----------------|----------------|------------dddd|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-----o-|----o-------o---|
+
+  "ruuuuuuuuuuunn!..."
+  CC x-----------x---|------------x---|x-----------x---|------------x---|
+  RC --X-X-X-X-X---X-|X-X-X-X-X-X---X-|--X-X-X-X-X---X-|X-X-X-X-X-X---X-|
+  SD ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o-----|o------oo-o---o-|
+
+  "ruuuuuuuuuuunn!"
+  CC x-----------x---|------------x---|x-----------x---|------------x---|
+  RC --X-X-X-X-X---X-|X-X-X-X-X-X---X-|--X-X-X-X-X---X-|X-X-X-X-X-X---X-|
+  SD ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o-----|o------oo-o-----|
+
+  
+  CC x---------------|x---------------|
+  RC --xxxxxxXXXXXxxx|----------------|
+  BD o---------------|o---------------|
+
+Verse 3:
+
+  RC x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|
+  BD --------------o-|o---------------|o-------------o-|o---------------|
+
+  RC x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|
+  BD o-------------o-|o---------------|o-------------o-|o---------------|
+
+  "but i'm a creep..."
+  CC x---------------|----------------|----------------|----------------|
+  RC --x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|
+  ES ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o-----|o------oo-o---o-|
+
+  RC x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|
+  ES ----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+  BD o------oo-o-----|o------oo-o---o-|o------oo-o---o-|o------oo-o---o-|
+
+  CC x---------------|x---------------||                               ||
+  RC --xxxxxxxxxxxxxx|----------------||            THE END            ||
+  BD o---------------|o---------------||                               ||
+
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------

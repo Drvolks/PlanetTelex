@@ -1,0 +1,35 @@
+ * RADIOHEAD - Let Down
+ * OK Computer LP
+ * Bass tab by therapy@smug.adelaide.edu.au
+
+Manually rendered into the ascii form by: therapy@smug.adelaide.edu.au
+Please direct comments/improvements/corrections to this address. 
+As always, listen to the cd for exact rhythm/length of notes.
+ 
+[intro is the A chord bit twice]
+
+[verse]
+   A                 E                 F#                E
+G:|--------|--------|--------|--------|--------|--------|--------|--------|
+D:|--------|--------|--------|--------|--------|--------|--------|--------|
+A:|0---00--|0-0-4-0-|--------|--------|--------|--------|--------|--------|
+E:|--------|--------|0---00--|0-0-0-0-|2---22--|2-2-2-2-|0---00--|0-0-0-0-|
+
+[chorus]
+G:|--------|--------|--------|--------|--------|--------|--------|--------|
+D:|--------|--------|--------|--------|--------|--------|--------|--------|
+A:|5--4-2--|4-540---|5--4-2--|4-540---|5--4-2--|4-540---|7--5420-|0-------|
+E:|--------|--------|--------|--------|--------|--------|--------|--------|
+ 
+[during break, as well as the A bit where required]
+G:|--------|--------|
+D:|--------|--------|
+A:|9--7-4-0|--------|
+E:|--------|--------|
+
+
+=======================================
+    Guitar Archive at Planet Telex
+ http://www.underworld.net/radiohead/
+Max Kolombos <rhguitar@underworld.net>
+---------------------------------------
